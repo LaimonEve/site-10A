@@ -1,0 +1,70 @@
+<style type="text/css">
+	#test {
+		background: #000000;
+		font-family: cursive;
+			font-style: oblique;
+			size: 100vh;
+	}
+p {
+	font-family: fantasy;
+	text-align: center;
+}
+table {
+		font-family: fantasy;	
+		text-align: left;
+		border-collapse: separate;
+		border-spacing: 5px;
+		background: #C0C0C0
+		color: #656665;
+		border: 16px solid #C0C0C0;
+		border-radius: 20px;
+}
+th {
+		font-size: 18px
+		padding: 10px;
+}
+td {
+		background: #D8BFD8;
+		padding: 10px;
+}
+tr {
+	font-family: fantasy;
+	text-align: center;
+}
+h1{
+	font-family: fantasy;
+	text-align: center;
+}
+h2{
+	font-family: fantasy;
+	text-align: center;
+}
+a{
+	font-family: fantasy;
+	text-align: center;
+}
+.center {
+	text-align: center;
+}
+.rect {
+width: 70%;
+height: 30px;
+border: 2px solid;
+margin: auto;
+}
+div {
+	text-align: center;
+	font-family: fantasy;
+	font-size: 20px;
+}
+#inf {
+	font-size: 25px;
+}
+#st {
+		text-align: center;	
+		width: 40px;
+}
+#size {
+	font-size: 20px;
+}
+</style>
